@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/drawable/splashscreen_bg.xml" value="0.196" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_add_wish.xml" value="0.2497733454215775" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_bar_graph.xml" value="0.15433946130825138" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_graph.xml" value="0.15433946130825138" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_item_detail.xml" value="0.15433946130825138" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_list_item.xml" value="0.2497733454215775" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_login.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_wishlist.xml" value="0.2497733454215775" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/displaycoll.xml" value="0.2497733454215775" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/grid_item.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/wishlist_item.xml" value="0.2497733454215775" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/main_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/nav_graph.xml" value="0.15433946130825138" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/nav_items.xml" value="0.15433946130825138" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/nav_menu.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/ABC/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/nav_wish.xml" value="0.15433946130825138" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/drawable/edit_text_bg.xml" value="0.107" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_add_wish.xml" value="0.22" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_collections_display.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_create_collection.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_create_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_favourite.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_introductory.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_item_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_list_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_login.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_wishlist.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/grid_item.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/login_tab_fragment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/navheader.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/signup_tab_fragment.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/wishlist_item.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQCollections/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1785" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQCollections/app/src/main/res/drawable/button_bg.xml" value="0.107" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQCollections/app/src/main/res/drawable/edit_text_bg.xml" value="0.107" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQCollections/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1785" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQCollections/app/src/main/res/drawable/vie_bg.xml" value="0.107" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQCollections/app/src/main/res/layout/activity_introductory.xml" value="0.1796875" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQCollections/app/src/main/res/layout/activity_login.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQCollections/app/src/main/res/layout/login_tab_fragment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQCollections/app/src/main/res/layout/signup_tab_fragment.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQCollections/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1785" />
+        <entry key="..\:/Users/alipy/AndroidStudioProjects/IQCollections/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1785" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_about_display.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_add_wish.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_collections_display.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_create_collection.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_create_item.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_group_members.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_introductory.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_item_detail.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_login.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_wishlist.xml" value="0.14130434782608695" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/grid_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/login_tab_fragment.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/details_nav.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/main_drawer.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/nav_items.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/fletc/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/nav_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.399" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/drawable/splashscreen_bg.xml" value="0.399" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_create_collection.xml" value="0.30452261306532663" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_create_item.xml" value="0.32" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_favourite.xml" value="0.55" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_introductory.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_item_detail.xml" value="0.5359375" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_list_item.xml" value="0.4994797086368366" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_login.xml" value="0.2674772036474164" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_main.xml" value="0.55" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/activity_wishlist.xml" value="0.5359375" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/grid_item.xml" value="0.55" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/login_tab_fragment.xml" value="0.4" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/navheader.xml" value="0.55" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/layout/signup_tab_fragment.xml" value="0.3542116630669546" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/details_nav.xml" value="0.55" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/main_drawer.xml" value="0.55" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/nav_items.xml" value="0.55" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/menu/nav_menu.xml" value="0.55" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/xml/file_paths.xml" value="0.13858695652173914" />
+        <entry key="..\:/Users/msilv/AndroidStudioProjects/IQ-Collections/app/src/main/res/xml/provider_paths.xml" value="0.13858695652173914" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

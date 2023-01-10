@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/itemDisplayLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".listItem"
+    android:orientation="vertical"
+    app:layoutDescription="@xml/mainact_nav_scnene"
+    android:background="@drawable/background">
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:importantForAccessibility="auto"
+        android:fitsSystemWindows="true"
+        app:headerLayout="@layout/navheader"
+        app:menu="@menu/nav_menu" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Space
+            android:layout_width="30dp"
+            android:layout_height="30dp"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="650dp">
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="650dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="650dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/acme"
+                    android:text="Items Avaliable:"
+                    android:textAlignment="center"
+                    android:textColor="@color/black"
+                    android:id="@+id/txtItemCollection"
+                    android:textStyle="bold" />
+                <Space
+                    android:layout_width="30dp"
+                    android:layout_height="15dp"/>
+
+                <ProgressBar
+                    android:id="@+id/goalProg"
+                    android:layout_width="match_parent"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_height="40dp"
+                    style="?android:attr/progressBarStyleHorizontal"
+
+                  />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <Button
+                        android:id="@+id/btnBack"
+                        android:layout_width="190dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center_horizontal"
+                        android:text="Back" />
+
+                    <Button
+                        android:id="@+id/btnDeleteColl"
+                        android:layout_width="190dp"
+                        android:layout_height="wrap_content"
+                        android:backgroundTint="@color/red_delete"
+                        android:text="Delete Collection" />
+                </LinearLayout>
+
+                <ListView
+                    android:layout_width="match_parent"
+                    android:layout_height="520dp"
+                    android:id="@+id/lstItemsview"
+                    />
+
+            </LinearLayout>
+</ScrollView>
+        </androidx.cardview.widget.CardView>
+        <Space
+            android:layout_width="30dp"
+            android:layout_height="30dp"/>
+    </LinearLayout>
+
+
+
+</androidx.drawerlayout.widget.DrawerLayout>

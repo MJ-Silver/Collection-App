@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IQ Collections</string>
+    <string name="delete">Delete</string>
+    <string name="create">Create</string>
+    <string name="default_web_client">1083821277313-n454vb1penhi0itlle188635689tm6rh.apps.googleusercontent.com</string>
+    <string name="navi_open">Open navigation drawer</string>
+    <string name="navi_close">Close navigation drawer</string>
+    <string name="abt_detail_1">
+        A group of individuals have decided to put their heads and resources together and have managed to create IQ Collections.
+        This app name relates to the functions of the application as well as being similarly easy to read and remember creating a memorable application.
+        The application will be developed to store any types of collections as well as multiple diverse collections.
+        The chief aim of the IQ Collections application will be to have an easy to navigate and manage collection application.
+        The IQ Collections application will be easy to catalog all the items in customizable collection templates.
+    </string>
+
+
+</resources>
